@@ -12,7 +12,7 @@
     </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
-    <h1> Hi, I'm <b>Pur3-MAlice</b>.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a <b>Student Fullstack Software Developer</b> with experience in HTML5, CSS3, JavaScript, and Python.
+    <h1> Hi, I'm Pur3-MAlice.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a Fullstack Software Developer with experience in HTML5, CSS3, JavaScript, and Python.
     </h1>
     <div align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
