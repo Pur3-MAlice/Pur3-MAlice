@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="120"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/alice-ford-042729174/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,10 +18,10 @@
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
     </div>   
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
-
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - :telescope: I am currently enrolled in the _Diploma in Full Stack Software Development_ course at [:o: Code Institute](https://codeinstitute.net), where I am expanding my skillset and knowledge of software development and how code can change the world.
@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alice-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alice-ford-042729174/)
 
-:rocket: Thanks for stopping by!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -52,6 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
@@ -59,3 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pur3-MAlice)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pur3-MAlice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+:rocket: Thanks for stopping by!
