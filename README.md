@@ -17,23 +17,6 @@
     <div align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
     </div>   
-     <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
 </div>
 ---
 
@@ -57,48 +40,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="CodePen" alt="CodePen" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>
+</div>
+---
 
+### :fire: My Stats :
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pur3-MAlice)](https://git.io/streak-stats)
 
-
-
-
-
-
-
-<details><summary><h2>Tech Stack</h2></summary>
-
-- ### Programming Languages
-    ![JavaScript](https://img.shields.io/badge/JavaScript-222222?&style=for-the-badge&logo=javascript&logoColor=white&logoWidth=20&labelColor=c2bc15) ![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=E34F26) ![Css3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=1572B6) ![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=366E9C)
-
-- ### Development Environments
-    ![VSCode](https://img.shields.io/badge/VSCode-222222?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoWidth=20&labelColor=0078D4) ![GITpod](https://img.shields.io/badge/Gitpod-222222?style=for-the-badge&logo=Gitpod&logoColor=white&logoWidth=20&labelColor=FFAE33)
-
-    ![GIT](https://img.shields.io/badge/GIT-222222?style=for-the-badge&logo=GIT&logoColor=white&logoWidth=20&labelColor=E44C30) ![GITHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=GitHub&logoColor=000&logoWidth=20&labelColor=C2C2C2)
-
-- ### Hosting
-    ![GitHub pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub&logoColor=black&logoWidth=20&labelColor=C2C2C2) 
-
-- ### Other tools
-    ![Balsamiq](https://img.shields.io/badge/Balsamiq-222222?style=for-the-badge) 
-    ![Markdown](https://img.shields.io/badge/Markdown-222222?style=for-the-badge&logo=Markdown&logoColor=white)
-    ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-222222?style=for-the-badge&logo=Google-chrome&logoColor=white&logoWidth=20&labelColor=4285F4)
-    ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-222222?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&logoWidth=20&labelColor=31A8FF) 
-    ![Font Awesome](https://img.shields.io/badge/Font_Awesome-222222?style=for-the-badge&logo=fontawesome&logoColor=white&logoWidth=20&labelColor=339AF0)
-</details>
-
-## Stats
-<p>
-    <a href="https://github.com/FlashDrag/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=FlashDrag&count_private=true&show_icons=true&theme=swift&custom_title=FlashDrag's%20GitHub%20Stats&ring_color=E5A585&icon_color=E5A585&text_bold=false" alt="FlashDrag's GitHub stats" />
-    </a>
-    <a href="https://github.com/FlashDrag/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashDrag&layout=compact&theme=swift" alt="Top Langs" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://git.io/streak-stats">
-      <img  src="http://github-readme-streak-stats.herokuapp.com?user=FlashDrag&theme=default&date_format=j%20M%5B%20Y%5D&background=F7F7F7&border=E4E2E2&ring=E5A585&fire=E5A585&currStreakLabel=E5A585" alt="GitHub Streak" />
-    </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pur3-MAlice&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
