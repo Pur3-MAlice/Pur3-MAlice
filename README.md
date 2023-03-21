@@ -28,7 +28,7 @@ I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplc
 
 - :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an intresting project and a challenge! Please feel free to puruse any of my projects - I welcome any comments, feedback or advice!
 
-- :seedling: For a living I'm a Senior Campaign Executive at a B2B Marketing company where I solve problems and write copy aand content all day as well as project manage campaigns.
+- :seedling: For a living I'm a Senior Campaign Executive at a B2B Marketing company where I solve problems and write copy and content all day as well as project manage campaigns.
 
 - :zap: In my free time, I read tech articles, play alot of Stardew Valley and brush up on my coding skills.
 
