@@ -12,7 +12,7 @@
     </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
-    <h1> Hi, I'm Pur3-MAlice.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a Fullstack Software Developer with experience in HTML5, CSS3, JavaScript, and Python.
+    <h1> Hi, I'm Pur3-MAlice.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a Junior Front End Developer with experience in HTML5, CSS3, JavaScript, and Python.
     </h1>
     <div align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
@@ -22,17 +22,17 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - :telescope: I am currently enrolled in the _Diploma in Full Stack Software Development_ course at [:o: Code Institute](https://codeinstitute.net), where I am expanding my skillset and knowledge of software development and how code can change the world.
 
 - :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an intresting project and a challenge! Please feel free to puruse any of my projects - I welcome any comments, feedback or advice!
 
-- :seedling: For a living I'm a Senior Campaign Executive at a B2B Marketing company where I solve problems and write copy all day.
+- :seedling: For a living I'm a Senior Campaign Executive at a B2B Marketing company where I solve problems and write copy aand content all day as well as project manage campaigns.
 
 - :zap: In my free time, I read tech articles, play alot of Stardew Valley and brush up on my coding skills.
 
-- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly intrested in Frontend Development and how to use Javascript to create really cool and interactive websites that excite end-users. 
+- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly intrested in cool CSS tricks, intresting UX/UI, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alice-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alice-ford-042729174/)
 
