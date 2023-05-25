@@ -12,7 +12,7 @@
     </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
-    <h1> Hi, I'm Pur3-MAlice.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a Junior Front End Developer with experience in HTML5, CSS3, JavaScript, and Python.
+    <h1> Hi, I'm Pur3-MAlice.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a Junior Developer with experience in HTML5, CSS3, JavaScript, and Python.
     </h1>
     <div align="center">
         <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
@@ -32,7 +32,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I read tech articles, play alot of Stardew Valley and brush up on my coding skills.
 
-- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly intrested in cool CSS tricks, intresting UX/UI, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
+- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly intrested in cool CSS tricks, intresting UX/UI, APIs, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alice-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alice-ford-042729174/)
 
@@ -51,6 +51,8 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="CodePen" alt="CodePen" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </div>
 
 ---
