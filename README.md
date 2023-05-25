@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 - :telescope: I am currently enrolled in the _Diploma in Full Stack Software Development_ course at [:o: Code Institute](https://codeinstitute.net), where I am expanding my skillset and knowledge of software development and how code can change the world.
 
