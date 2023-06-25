@@ -28,7 +28,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an intresting project and a challenge! Please feel free to puruse any of my projects - I welcome any comments, feedback or advice!
 
-- :seedling: For a living I'm a Senior Campaign Executive at a B2B Marketing Company where I solve problems and project manage campaigns.
+- :seedling: I have over 2 years experience with HTML and CSS. And having mastered JavaScript and jQuery through my many projects I am now ready to take my next steps as a Junior Front End Developer.
 
 - :zap: In my free time, I read tech articles, play alot of Stardew Valley and brush up on my coding skills.
 
