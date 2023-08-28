@@ -26,13 +26,13 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :telescope: I am currently enrolled in the _Diploma in Full Stack Software Development_ course at [:o: Code Institute](https://codeinstitute.net), where I am expanding my skillset and knowledge of software development and how code can change the world.
 
-- :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an intresting project and a challenge! Please feel free to puruse any of my projects - I welcome any comments, feedback or advice!
+- :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an interesting project and a challenge! Please feel free to peruse any of my projects - I welcome any comments, feedback, or advice!
 
-- :seedling: I have over 2 years experience with HTML and CSS. And having mastered JavaScript and jQuery through my many projects I am now ready to take my next steps as a Junior Front End Developer.
+- :seedling: I have over 2 years of experience with HTML and CSS. And having mastered JavaScript and jQuery through my many projects I am now ready to take my next steps as a Junior Front-End Developer or Web Developer.
 
-- :zap: In my free time, I read tech articles, play alot of Stardew Valley and brush up on my coding skills.
+- :zap: In my free time, I read tech articles, play a lot of Stardew Valley, and brush up on my coding skills.
 
-- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly intrested in cool CSS tricks, intresting UX/UI, APIs, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
+- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly interested in cool CSS tricks, interesting UX/UI, APIs, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alice-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alice-ford-042729174/)
 
