@@ -1,22 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="120"/>
-    <div id="badges">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/alice-ford-042729174/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://codepen.io/Pure_MAlice">
-        <img src= "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
+      <img src= "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
     </a>
     <a href="https://www.instagram.com/as_ford/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/
     </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
-    <h1> Hi, I'm Pur3-MAlice.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>I'm a Junior Developer with experience in HTML5, CSS3, JavaScript, and Python.
-    </h1>
-    <div align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-    </div>   
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
+  <h1> Hi, I'm Pur3-MAlice.<br>I'm a Junior Developer with experience in HTML5, CSS3, JavaScript, and Python.</h1>
+  <div align="center">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  </div>   
 </div>
 
 ---
