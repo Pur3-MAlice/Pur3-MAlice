@@ -27,7 +27,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an interesting project and a challenge! Please feel free to peruse any of my projects - I welcome any comments, feedback, or advice!
 
-- :seedling: I have over 2 years of experience with HTML and CSS. And having mastered JavaScript and jQuery through my many projects.
+- :seedling: I have over 2 years of experience with HTML and CSS. And have mastered JavaScript and jQuery through my many projects. I've recently moved on to discover more about Django, SQL and Databases! Feel free to have a look at my projects below.
 
 - :zap: In my free time, I read tech articles, play a lot of Stardew Valley, and brush up on my coding skills.
 
