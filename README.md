@@ -65,9 +65,28 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :floppy_disk: My Projects:
- - Bear Minimum
- - Flippy Card
- - Reading List
+ - 
+
+<h3>Bear Minimum</h3>
+<ul>
+  <li>Bear Minimum is an info-tainment (information/entertainment) website educating users on sustainability. The main aim of the website is provide useful advice and information about ways to slowly create a sustainable lifestyle in modern society as well as encourage users to 'get back to nature'. There's very little out there about general encouragement to lead a slightly more sustainable life, a lot of the media around being environmentally friendly is 100% effort or nothing. This website is trying to bridge this gap and create a more positive outlook on both sustainability and Climate Change. </li></li>
+  <li>Live Link: https://pur3-malice.github.io/bear-minimum//</li>
+  <li>Git hub repo: https://github.com/Pur3-MAlice/bear-minimum</li>
+</ul>
+
+<h3>Stardew Valley Memory Game</h3>
+<ul>
+  <li>Stardew Valley Memory Game is a nostalgic card flipping/matching game based on the images and source material of the cult game Stardew Valley. The main aim of the website is to provide a relaxing and entertaining game that users can go up or down in difficulty - the games shouldn't be so difficult that the experience is stressful. The experience of this site should be happy calm and relaxed whilst player are able to keep track of their highest scores. </li>
+  <li>Live Link: https://pur3-malice.github.io/stardew-memory-game/</li>
+  <li>Git hub repo: https://github.com/Pur3-MAlice/seasonality</li>
+</ul>
+
+<h3>Reading List</h3>
+<ul>
+  <li>This program is a smart reading list that automatically updates a google spreadsheet with the user input from the app. </li>
+  <li>Live Link: https://seasonality-c30a72c679d8.herokuapp.com/</li>
+  <li>Git hub repo: https://reading-list-alice.herokuapp.com/</li>
+</ul>
    
 <h3>Seasonality</h3>
 <ul>
@@ -76,8 +95,12 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <li>Git hub repo: https://github.com/Pur3-MAlice/seasonality</li>
 </ul>
 
-<h3>To-do list
- - The Hobbit
+<h3>Task-Manager App</h3>
+<ul>
+  <li>Task Manager App with Categories and individual Tasks. Follows CRUD functionality. Python, Flask, Jinja, SQL, pSQL, HTML5, CSS3, JavaScript</li>
+  <li>Live Link: https://taskmanager-pur3malice-3bec86fd088e.herokuapp.com/</li>
+  <li>Git hub repo: https://github.com/Pur3-MAlice/TaskManager-App</li>
+</ul>
 
 
 ---
