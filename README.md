@@ -68,7 +68,13 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
  - Bear Minimum
  - Flippy Card
  - Reading List
- - To-do list
+   
+<h3>Seasonality</h3>
+- This website has been built as a digital cookbook. Where people can upload their own recipes, comment, favourite and rate other people's submissions (including the admin's). This website aims to target the lack of community and collaboration within recipe websites. User submission gives the user a level of control, whilst the admin is also in charge of making sure the community is staying safe. It also aims to tackle the preamble that comes before recipes on websites that people find annoying, even if it is good SEO.
+- Live Link: https://seasonality-c30a72c679d8.herokuapp.com/
+- Git hub repo: https://github.com/Pur3-MAlice/seasonality
+
+<h3>To-do list
  - The Hobbit
 
 
