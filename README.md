@@ -12,7 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
-  <h1>Hi, I'm Pur3-MAlice.<br>I'm a Developer with experience in HTML5, CSS3, JavaScript, and Python.</h1>
+  <h1>Hi, I'm Pur3-MAlice.<br>I'm a Web Developer in Manchester, UK.</h1>
   <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
   </div>   
@@ -23,13 +23,13 @@
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-- :telescope: I am currently enrolled in the _Diploma in Full Stack Software Development_ course at [:o: Code Institute](https://codeinstitute.net), where I am expanding my skillset and knowledge of software development and how code can change the world.
+- :telescope: I completed a _Diploma in Full Stack Software Development_  at [:o: Code Institute](https://codeinstitute.net) in 2023, where I expanded my skillset and knowledge of software development and how code can change the world. I now work full time as a Web Dev in Manchester.
 
 - :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an interesting project and a challenge! Please feel free to peruse any of my projects - I welcome any comments, feedback, or advice!
 
-- :seedling: I have over 2 years of experience with HTML and CSS. And have mastered JavaScript and jQuery through my many projects. I've recently moved on to discover more about Django, SQL and Databases! Feel free to have a look at my projects below.
+- :seedling: I have over 4 years of experience with HTML and CSS. And have mastered JavaScript and jQuery through my many projects. I've recently moved on to discover more about Django, SQL and Databases! Feel free to have a look at my projects below.
 
-- :zap: In my free time, I read tech articles, play a lot of Stardew Valley, and brush up on my coding skills.
+- :zap: In my free time, I read cool coding articles, play a lot of Stardew Valley and Breath of the Wild, and brush up on my coding skills.
 
 - :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly interested in cool CSS tricks, interesting UX/UI, APIs, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
 
