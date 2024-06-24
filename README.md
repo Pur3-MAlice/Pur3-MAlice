@@ -12,7 +12,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Pure3-MAlice&style=flat-square&color=blue" alt=""/>
-  <h1>Hi, I'm Pur3-MAlice.<br>I'm a Web Developer in Manchester, UK.</h1>
+  <h1>Hi, I'm Pur3-MAlice.<br>I'm a Web Developer in the UK.</h1>
   <div align="center">
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
   </div>   
@@ -23,7 +23,7 @@
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-- :telescope: I completed a _Diploma in Full Stack Software Development_  at [:o: Code Institute](https://codeinstitute.net) in 2023, where I expanded my skillset and knowledge of software development and how code can change the world. I now work full time as a Web Dev in Manchester.
+- :telescope: I completed a _Diploma in Full Stack Software Development_  at [:o: Code Institute](https://codeinstitute.net) in 2023, where I expanded my skillset and knowledge of software development and how code can change the world. I now work full time as a Web Dev.
 
 - :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an interesting project and a challenge! Please feel free to peruse any of my projects - I welcome any comments, feedback, or advice!
 
