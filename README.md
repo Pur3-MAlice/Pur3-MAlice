@@ -21,17 +21,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-- :telescope: I completed a _Diploma in Full Stack Software Development_  at [:o: Code Institute](https://codeinstitute.net) in 2023, where I expanded my skillset and knowledge of software development and how code can change the world. I now work full time as a Web Dev.
+- :boom: I am highly motivated to constantly improve and take on new challenges. There's nothing that fires me up more than an interesting project.
 
-- :boom: I am highly motivated to constantly develop my skills. There's nothing that fires me up more than an interesting project and a challenge! Please feel free to peruse any of my projects - I welcome any comments, feedback, or advice!
+- :zap: I have over 6 years of experience in web development, and over 10 years experience with content and copy writing. I know good websites inside and out.
 
-- :seedling: I have over 4 years of experience with HTML and CSS. And have mastered JavaScript and jQuery through my many projects. I've recently moved on to discover more about Django, SQL and Databases! Feel free to have a look at my projects below.
-
-- :zap: In my free time, I read cool coding articles, play a lot of Stardew Valley and Breath of the Wild, and brush up on my coding skills.
-
-- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly interested in cool CSS tricks, interesting UX/UI, APIs, and how to use Javascript to create really cool, accessible interactive websites that excite end-users. 
+- :sparkles: On my GitHub profile, you will find a variety of projects that showcase my abilities and who I am. I am particularly interested in cool CSS tricks, interesting UX/UI, and how to use Javascript to create accessible interactive websites that excite end-users. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alice-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alice-ford-042729174/)
 
